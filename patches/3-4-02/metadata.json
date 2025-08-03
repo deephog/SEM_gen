@@ -1,0 +1,79 @@
+{
+  "source_image": "/home/eason/labs/alpha1t/SEM_gen/3-4-02.tif",
+  "image_shape": [
+    768,
+    1024
+  ],
+  "patches": [
+    {
+      "id": 0,
+      "filename": "patch_000.png",
+      "coordinates": [
+        578,
+        206,
+        610,
+        234
+      ],
+      "size": [
+        32,
+        28
+      ]
+    },
+    {
+      "id": 1,
+      "filename": "patch_001.png",
+      "coordinates": [
+        665,
+        231,
+        690,
+        253
+      ],
+      "size": [
+        25,
+        22
+      ]
+    },
+    {
+      "id": 2,
+      "filename": "patch_002.png",
+      "coordinates": [
+        684,
+        133,
+        726,
+        153
+      ],
+      "size": [
+        42,
+        20
+      ]
+    },
+    {
+      "id": 3,
+      "filename": "patch_003.png",
+      "coordinates": [
+        840,
+        418,
+        867,
+        444
+      ],
+      "size": [
+        27,
+        26
+      ]
+    },
+    {
+      "id": 4,
+      "filename": "patch_004.png",
+      "coordinates": [
+        930,
+        586,
+        973,
+        623
+      ],
+      "size": [
+        43,
+        37
+      ]
+    }
+  ]
+}
